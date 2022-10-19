@@ -1,0 +1,1389 @@
+[locale: "en"
+description: "menu\nentree\nSTEAMED PORK GYOZA\nSTEAMED PORK GYOZA (4) W/ SOY SAUCE\nGARLIC BREAD\nTURKISH BREAD W/ GARLIC BUTTER\nVEGETABLE SPRING ROLLS\nFRIED SPRING ROLLS (3) W/ HOUSE\nMADE SWEET CHILLI SAUCE\nmain\nBUTTER CHICKEN\nTENDER CHICKEN PIECES COOKED INA\nRICH CREAM, TOMATO & BUTTER SAUCE\nTATAKI OCEAN TROUT\nENCRUSTED IN BLACK SESAME SEEDS, RICE,\nGREENS & A CHILLI, SOY LIME DRESSING\ndessert\nCHOCOLATE TRUFFLE CAKE\nSTRAWBERRY CHEESECAKE\ngina e mike\n11/24/13\n"
+bounding_poly {
+  vertices {
+    x: 79
+    y: 44
+  }
+  vertices {
+    x: 468
+    y: 44
+  }
+  vertices {
+    x: 468
+    y: 1036
+  }
+  vertices {
+    x: 79
+    y: 1036
+  }
+}
+, description: "menu"
+bounding_poly {
+  vertices {
+    x: 80
+    y: 44
+  }
+  vertices {
+    x: 393
+    y: 48
+  }
+  vertices {
+    x: 392
+    y: 107
+  }
+  vertices {
+    x: 79
+    y: 103
+  }
+}
+, description: "entree"
+bounding_poly {
+  vertices {
+    x: 213
+    y: 194
+  }
+  vertices {
+    x: 359
+    y: 194
+  }
+  vertices {
+    x: 359
+    y: 243
+  }
+  vertices {
+    x: 213
+    y: 243
+  }
+}
+, description: "STEAMED"
+bounding_poly {
+  vertices {
+    x: 187
+    y: 264
+  }
+  vertices {
+    x: 265
+    y: 264
+  }
+  vertices {
+    x: 265
+    y: 277
+  }
+  vertices {
+    x: 187
+    y: 277
+  }
+}
+, description: "PORK"
+bounding_poly {
+  vertices {
+    x: 273
+    y: 264
+  }
+  vertices {
+    x: 320
+    y: 264
+  }
+  vertices {
+    x: 320
+    y: 277
+  }
+  vertices {
+    x: 273
+    y: 277
+  }
+}
+, description: "GYOZA"
+bounding_poly {
+  vertices {
+    x: 325
+    y: 264
+  }
+  vertices {
+    x: 384
+    y: 264
+  }
+  vertices {
+    x: 384
+    y: 277
+  }
+  vertices {
+    x: 325
+    y: 277
+  }
+}
+, description: "STEAMED"
+bounding_poly {
+  vertices {
+    x: 110
+    y: 289
+  }
+  vertices {
+    x: 187
+    y: 289
+  }
+  vertices {
+    x: 187
+    y: 301
+  }
+  vertices {
+    x: 110
+    y: 301
+  }
+}
+, description: "PORK"
+bounding_poly {
+  vertices {
+    x: 196
+    y: 291
+  }
+  vertices {
+    x: 242
+    y: 291
+  }
+  vertices {
+    x: 242
+    y: 301
+  }
+  vertices {
+    x: 196
+    y: 301
+  }
+}
+, description: "GYOZA"
+bounding_poly {
+  vertices {
+    x: 248
+    y: 291
+  }
+  vertices {
+    x: 304
+    y: 291
+  }
+  vertices {
+    x: 304
+    y: 301
+  }
+  vertices {
+    x: 248
+    y: 301
+  }
+}
+, description: "(4)"
+bounding_poly {
+  vertices {
+    x: 311
+    y: 289
+  }
+  vertices {
+    x: 331
+    y: 289
+  }
+  vertices {
+    x: 331
+    y: 302
+  }
+  vertices {
+    x: 311
+    y: 302
+  }
+}
+, description: "W/"
+bounding_poly {
+  vertices {
+    x: 338
+    y: 289
+  }
+  vertices {
+    x: 362
+    y: 289
+  }
+  vertices {
+    x: 362
+    y: 301
+  }
+  vertices {
+    x: 338
+    y: 301
+  }
+}
+, description: "SOY"
+bounding_poly {
+  vertices {
+    x: 369
+    y: 291
+  }
+  vertices {
+    x: 401
+    y: 291
+  }
+  vertices {
+    x: 401
+    y: 301
+  }
+  vertices {
+    x: 369
+    y: 301
+  }
+}
+, description: "SAUCE"
+bounding_poly {
+  vertices {
+    x: 408
+    y: 291
+  }
+  vertices {
+    x: 460
+    y: 291
+  }
+  vertices {
+    x: 460
+    y: 301
+  }
+  vertices {
+    x: 408
+    y: 301
+  }
+}
+, description: "GARLIC"
+bounding_poly {
+  vertices {
+    x: 221
+    y: 338
+  }
+  vertices {
+    x: 285
+    y: 338
+  }
+  vertices {
+    x: 285
+    y: 351
+  }
+  vertices {
+    x: 221
+    y: 351
+  }
+}
+, description: "BREAD"
+bounding_poly {
+  vertices {
+    x: 293
+    y: 338
+  }
+  vertices {
+    x: 348
+    y: 338
+  }
+  vertices {
+    x: 348
+    y: 351
+  }
+  vertices {
+    x: 293
+    y: 351
+  }
+}
+, description: "TURKISH"
+bounding_poly {
+  vertices {
+    x: 129
+    y: 363
+  }
+  vertices {
+    x: 206
+    y: 363
+  }
+  vertices {
+    x: 206
+    y: 375
+  }
+  vertices {
+    x: 129
+    y: 375
+  }
+}
+, description: "BREAD"
+bounding_poly {
+  vertices {
+    x: 214
+    y: 365
+  }
+  vertices {
+    x: 268
+    y: 365
+  }
+  vertices {
+    x: 268
+    y: 375
+  }
+  vertices {
+    x: 214
+    y: 375
+  }
+}
+, description: "W/"
+bounding_poly {
+  vertices {
+    x: 275
+    y: 363
+  }
+  vertices {
+    x: 299
+    y: 363
+  }
+  vertices {
+    x: 299
+    y: 376
+  }
+  vertices {
+    x: 275
+    y: 376
+  }
+}
+, description: "GARLIC"
+bounding_poly {
+  vertices {
+    x: 306
+    y: 365
+  }
+  vertices {
+    x: 368
+    y: 365
+  }
+  vertices {
+    x: 368
+    y: 375
+  }
+  vertices {
+    x: 306
+    y: 375
+  }
+}
+, description: "BUTTER"
+bounding_poly {
+  vertices {
+    x: 376
+    y: 365
+  }
+  vertices {
+    x: 441
+    y: 365
+  }
+  vertices {
+    x: 441
+    y: 375
+  }
+  vertices {
+    x: 376
+    y: 375
+  }
+}
+, description: "VEGETABLE"
+bounding_poly {
+  vertices {
+    x: 172
+    y: 411
+  }
+  vertices {
+    x: 265
+    y: 411
+  }
+  vertices {
+    x: 265
+    y: 424
+  }
+  vertices {
+    x: 172
+    y: 424
+  }
+}
+, description: "SPRING"
+bounding_poly {
+  vertices {
+    x: 274
+    y: 411
+  }
+  vertices {
+    x: 336
+    y: 411
+  }
+  vertices {
+    x: 336
+    y: 425
+  }
+  vertices {
+    x: 274
+    y: 425
+  }
+}
+, description: "ROLLS"
+bounding_poly {
+  vertices {
+    x: 345
+    y: 411
+  }
+  vertices {
+    x: 395
+    y: 411
+  }
+  vertices {
+    x: 395
+    y: 424
+  }
+  vertices {
+    x: 345
+    y: 424
+  }
+}
+, description: "FRIED"
+bounding_poly {
+  vertices {
+    x: 134
+    y: 436
+  }
+  vertices {
+    x: 183
+    y: 436
+  }
+  vertices {
+    x: 183
+    y: 449
+  }
+  vertices {
+    x: 134
+    y: 449
+  }
+}
+, description: "SPRING"
+bounding_poly {
+  vertices {
+    x: 192
+    y: 438
+  }
+  vertices {
+    x: 253
+    y: 438
+  }
+  vertices {
+    x: 253
+    y: 449
+  }
+  vertices {
+    x: 192
+    y: 449
+  }
+}
+, description: "ROLLS"
+bounding_poly {
+  vertices {
+    x: 262
+    y: 438
+  }
+  vertices {
+    x: 312
+    y: 438
+  }
+  vertices {
+    x: 312
+    y: 449
+  }
+  vertices {
+    x: 262
+    y: 449
+  }
+}
+, description: "(3)"
+bounding_poly {
+  vertices {
+    x: 319
+    y: 436
+  }
+  vertices {
+    x: 339
+    y: 436
+  }
+  vertices {
+    x: 339
+    y: 450
+  }
+  vertices {
+    x: 319
+    y: 450
+  }
+}
+, description: "W/"
+bounding_poly {
+  vertices {
+    x: 345
+    y: 435
+  }
+  vertices {
+    x: 379
+    y: 435
+  }
+  vertices {
+    x: 379
+    y: 452
+  }
+  vertices {
+    x: 345
+    y: 452
+  }
+}
+, description: "HOUSE"
+bounding_poly {
+  vertices {
+    x: 378
+    y: 438
+  }
+  vertices {
+    x: 435
+    y: 438
+  }
+  vertices {
+    x: 435
+    y: 449
+  }
+  vertices {
+    x: 378
+    y: 449
+  }
+}
+, description: "MADE"
+bounding_poly {
+  vertices {
+    x: 169
+    y: 462
+  }
+  vertices {
+    x: 216
+    y: 462
+  }
+  vertices {
+    x: 216
+    y: 472
+  }
+  vertices {
+    x: 169
+    y: 472
+  }
+}
+, description: "SWEET"
+bounding_poly {
+  vertices {
+    x: 224
+    y: 462
+  }
+  vertices {
+    x: 277
+    y: 462
+  }
+  vertices {
+    x: 277
+    y: 472
+  }
+  vertices {
+    x: 224
+    y: 472
+  }
+}
+, description: "CHILLI"
+bounding_poly {
+  vertices {
+    x: 284
+    y: 462
+  }
+  vertices {
+    x: 341
+    y: 462
+  }
+  vertices {
+    x: 341
+    y: 472
+  }
+  vertices {
+    x: 284
+    y: 472
+  }
+}
+, description: "SAUCE"
+bounding_poly {
+  vertices {
+    x: 349
+    y: 462
+  }
+  vertices {
+    x: 401
+    y: 462
+  }
+  vertices {
+    x: 401
+    y: 472
+  }
+  vertices {
+    x: 349
+    y: 472
+  }
+}
+, description: "main"
+bounding_poly {
+  vertices {
+    x: 184
+    y: 508
+  }
+  vertices {
+    x: 387
+    y: 511
+  }
+  vertices {
+    x: 387
+    y: 544
+  }
+  vertices {
+    x: 184
+    y: 541
+  }
+}
+, description: "BUTTER"
+bounding_poly {
+  vertices {
+    x: 209
+    y: 561
+  }
+  vertices {
+    x: 275
+    y: 561
+  }
+  vertices {
+    x: 275
+    y: 574
+  }
+  vertices {
+    x: 209
+    y: 574
+  }
+}
+, description: "CHICKEN"
+bounding_poly {
+  vertices {
+    x: 280
+    y: 561
+  }
+  vertices {
+    x: 360
+    y: 561
+  }
+  vertices {
+    x: 360
+    y: 575
+  }
+  vertices {
+    x: 280
+    y: 575
+  }
+}
+, description: "TENDER"
+bounding_poly {
+  vertices {
+    x: 115
+    y: 585
+  }
+  vertices {
+    x: 182
+    y: 585
+  }
+  vertices {
+    x: 182
+    y: 602
+  }
+  vertices {
+    x: 115
+    y: 602
+  }
+}
+, description: "CHICKEN"
+bounding_poly {
+  vertices {
+    x: 193
+    y: 585
+  }
+  vertices {
+    x: 272
+    y: 585
+  }
+  vertices {
+    x: 272
+    y: 602
+  }
+  vertices {
+    x: 193
+    y: 602
+  }
+}
+, description: "PIECES"
+bounding_poly {
+  vertices {
+    x: 278
+    y: 588
+  }
+  vertices {
+    x: 332
+    y: 588
+  }
+  vertices {
+    x: 332
+    y: 599
+  }
+  vertices {
+    x: 278
+    y: 599
+  }
+}
+, description: "COOKED"
+bounding_poly {
+  vertices {
+    x: 340
+    y: 588
+  }
+  vertices {
+    x: 412
+    y: 588
+  }
+  vertices {
+    x: 412
+    y: 599
+  }
+  vertices {
+    x: 340
+    y: 599
+  }
+}
+, description: "INA"
+bounding_poly {
+  vertices {
+    x: 421
+    y: 588
+  }
+  vertices {
+    x: 455
+    y: 588
+  }
+  vertices {
+    x: 455
+    y: 599
+  }
+  vertices {
+    x: 421
+    y: 599
+  }
+}
+, description: "RICH"
+bounding_poly {
+  vertices {
+    x: 114
+    y: 612
+  }
+  vertices {
+    x: 155
+    y: 612
+  }
+  vertices {
+    x: 155
+    y: 623
+  }
+  vertices {
+    x: 114
+    y: 623
+  }
+}
+, description: "CREAM,"
+bounding_poly {
+  vertices {
+    x: 163
+    y: 612
+  }
+  vertices {
+    x: 225
+    y: 612
+  }
+  vertices {
+    x: 225
+    y: 624
+  }
+  vertices {
+    x: 163
+    y: 624
+  }
+}
+, description: "TOMATO"
+bounding_poly {
+  vertices {
+    x: 232
+    y: 612
+  }
+  vertices {
+    x: 306
+    y: 612
+  }
+  vertices {
+    x: 306
+    y: 623
+  }
+  vertices {
+    x: 232
+    y: 623
+  }
+}
+, description: "&"
+bounding_poly {
+  vertices {
+    x: 313
+    y: 610
+  }
+  vertices {
+    x: 326
+    y: 610
+  }
+  vertices {
+    x: 326
+    y: 623
+  }
+  vertices {
+    x: 313
+    y: 623
+  }
+}
+, description: "BUTTER"
+bounding_poly {
+  vertices {
+    x: 333
+    y: 612
+  }
+  vertices {
+    x: 398
+    y: 612
+  }
+  vertices {
+    x: 398
+    y: 623
+  }
+  vertices {
+    x: 333
+    y: 623
+  }
+}
+, description: "SAUCE"
+bounding_poly {
+  vertices {
+    x: 404
+    y: 612
+  }
+  vertices {
+    x: 456
+    y: 612
+  }
+  vertices {
+    x: 456
+    y: 623
+  }
+  vertices {
+    x: 404
+    y: 623
+  }
+}
+, description: "TATAKI"
+bounding_poly {
+  vertices {
+    x: 188
+    y: 659
+  }
+  vertices {
+    x: 245
+    y: 659
+  }
+  vertices {
+    x: 245
+    y: 672
+  }
+  vertices {
+    x: 188
+    y: 672
+  }
+}
+, description: "OCEAN"
+bounding_poly {
+  vertices {
+    x: 254
+    y: 659
+  }
+  vertices {
+    x: 312
+    y: 659
+  }
+  vertices {
+    x: 312
+    y: 672
+  }
+  vertices {
+    x: 254
+    y: 672
+  }
+}
+, description: "TROUT"
+bounding_poly {
+  vertices {
+    x: 321
+    y: 659
+  }
+  vertices {
+    x: 381
+    y: 659
+  }
+  vertices {
+    x: 381
+    y: 672
+  }
+  vertices {
+    x: 321
+    y: 672
+  }
+}
+, description: "ENCRUSTED"
+bounding_poly {
+  vertices {
+    x: 101
+    y: 683
+  }
+  vertices {
+    x: 203
+    y: 683
+  }
+  vertices {
+    x: 203
+    y: 696
+  }
+  vertices {
+    x: 101
+    y: 696
+  }
+}
+, description: "IN"
+bounding_poly {
+  vertices {
+    x: 211
+    y: 684
+  }
+  vertices {
+    x: 228
+    y: 684
+  }
+  vertices {
+    x: 228
+    y: 696
+  }
+  vertices {
+    x: 211
+    y: 696
+  }
+}
+, description: "BLACK"
+bounding_poly {
+  vertices {
+    x: 238
+    y: 685
+  }
+  vertices {
+    x: 290
+    y: 685
+  }
+  vertices {
+    x: 290
+    y: 696
+  }
+  vertices {
+    x: 238
+    y: 696
+  }
+}
+, description: "SESAME"
+bounding_poly {
+  vertices {
+    x: 296
+    y: 685
+  }
+  vertices {
+    x: 358
+    y: 685
+  }
+  vertices {
+    x: 358
+    y: 696
+  }
+  vertices {
+    x: 296
+    y: 696
+  }
+}
+, description: "SEEDS,"
+bounding_poly {
+  vertices {
+    x: 366
+    y: 682
+  }
+  vertices {
+    x: 427
+    y: 682
+  }
+  vertices {
+    x: 427
+    y: 698
+  }
+  vertices {
+    x: 366
+    y: 698
+  }
+}
+, description: "RICE,"
+bounding_poly {
+  vertices {
+    x: 427
+    y: 684
+  }
+  vertices {
+    x: 468
+    y: 684
+  }
+  vertices {
+    x: 468
+    y: 697
+  }
+  vertices {
+    x: 427
+    y: 697
+  }
+}
+, description: "GREENS"
+bounding_poly {
+  vertices {
+    x: 111
+    y: 710
+  }
+  vertices {
+    x: 176
+    y: 710
+  }
+  vertices {
+    x: 176
+    y: 720
+  }
+  vertices {
+    x: 111
+    y: 720
+  }
+}
+, description: "&"
+bounding_poly {
+  vertices {
+    x: 183
+    y: 708
+  }
+  vertices {
+    x: 197
+    y: 708
+  }
+  vertices {
+    x: 197
+    y: 720
+  }
+  vertices {
+    x: 183
+    y: 720
+  }
+}
+, description: "A"
+bounding_poly {
+  vertices {
+    x: 202
+    y: 710
+  }
+  vertices {
+    x: 212
+    y: 710
+  }
+  vertices {
+    x: 212
+    y: 720
+  }
+  vertices {
+    x: 202
+    y: 720
+  }
+}
+, description: "CHILLI,"
+bounding_poly {
+  vertices {
+    x: 218
+    y: 710
+  }
+  vertices {
+    x: 279
+    y: 710
+  }
+  vertices {
+    x: 279
+    y: 721
+  }
+  vertices {
+    x: 218
+    y: 721
+  }
+}
+, description: "SOY"
+bounding_poly {
+  vertices {
+    x: 288
+    y: 710
+  }
+  vertices {
+    x: 320
+    y: 710
+  }
+  vertices {
+    x: 320
+    y: 720
+  }
+  vertices {
+    x: 288
+    y: 720
+  }
+}
+, description: "LIME"
+bounding_poly {
+  vertices {
+    x: 327
+    y: 710
+  }
+  vertices {
+    x: 365
+    y: 710
+  }
+  vertices {
+    x: 365
+    y: 720
+  }
+  vertices {
+    x: 327
+    y: 720
+  }
+}
+, description: "DRESSING"
+bounding_poly {
+  vertices {
+    x: 374
+    y: 710
+  }
+  vertices {
+    x: 457
+    y: 710
+  }
+  vertices {
+    x: 457
+    y: 720
+  }
+  vertices {
+    x: 374
+    y: 720
+  }
+}
+, description: "dessert"
+bounding_poly {
+  vertices {
+    x: 215
+    y: 754
+  }
+  vertices {
+    x: 359
+    y: 754
+  }
+  vertices {
+    x: 359
+    y: 825
+  }
+  vertices {
+    x: 215
+    y: 825
+  }
+}
+, description: "CHOCOLATE"
+bounding_poly {
+  vertices {
+    x: 166
+    y: 828
+  }
+  vertices {
+    x: 272
+    y: 828
+  }
+  vertices {
+    x: 272
+    y: 841
+  }
+  vertices {
+    x: 166
+    y: 841
+  }
+}
+, description: "TRUFFLE"
+bounding_poly {
+  vertices {
+    x: 279
+    y: 828
+  }
+  vertices {
+    x: 351
+    y: 828
+  }
+  vertices {
+    x: 351
+    y: 841
+  }
+  vertices {
+    x: 279
+    y: 841
+  }
+}
+, description: "CAKE"
+bounding_poly {
+  vertices {
+    x: 358
+    y: 828
+  }
+  vertices {
+    x: 403
+    y: 828
+  }
+  vertices {
+    x: 403
+    y: 841
+  }
+  vertices {
+    x: 358
+    y: 841
+  }
+}
+, description: "STRAWBERRY"
+bounding_poly {
+  vertices {
+    x: 173
+    y: 851
+  }
+  vertices {
+    x: 282
+    y: 851
+  }
+  vertices {
+    x: 282
+    y: 864
+  }
+  vertices {
+    x: 173
+    y: 864
+  }
+}
+, description: "CHEESECAKE"
+bounding_poly {
+  vertices {
+    x: 289
+    y: 851
+  }
+  vertices {
+    x: 397
+    y: 851
+  }
+  vertices {
+    x: 397
+    y: 864
+  }
+  vertices {
+    x: 289
+    y: 864
+  }
+}
+, description: "gina"
+bounding_poly {
+  vertices {
+    x: 155
+    y: 970
+  }
+  vertices {
+    x: 265
+    y: 966
+  }
+  vertices {
+    x: 267
+    y: 1030
+  }
+  vertices {
+    x: 157
+    y: 1034
+  }
+}
+, description: "e"
+bounding_poly {
+  vertices {
+    x: 267
+    y: 966
+  }
+  vertices {
+    x: 307
+    y: 964
+  }
+  vertices {
+    x: 309
+    y: 1027
+  }
+  vertices {
+    x: 269
+    y: 1029
+  }
+}
+, description: "mike"
+bounding_poly {
+  vertices {
+    x: 309
+    y: 965
+  }
+  vertices {
+    x: 403
+    y: 961
+  }
+  vertices {
+    x: 405
+    y: 1024
+  }
+  vertices {
+    x: 311
+    y: 1028
+  }
+}
+, description: "11/24/13"
+bounding_poly {
+  vertices {
+    x: 243
+    y: 1021
+  }
+  vertices {
+    x: 326
+    y: 1022
+  }
+  vertices {
+    x: 326
+    y: 1036
+  }
+  vertices {
+    x: 243
+    y: 1035
+  }
+}
+]
